@@ -1,2 +1,0 @@
-# todosApp
-Created with CodeSandbox

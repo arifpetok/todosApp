@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
-import FormTodo from "../components/todo/form";
-import List from "../components/todo/list";
-import Item from "../components/todo/item";
+import FormTodo from "./components/todo/form";
+import List from "./components/todo/list";
+import Item from "./components/todo/item";
 import "./styles.css";
 // import axios from "axios";
 
